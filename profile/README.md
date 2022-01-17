@@ -14,4 +14,4 @@ Package Manager
 
 Lambda Code website
 --- |
-[![Website](https://github-readme-stats.vercel.app/api/pin/?username=Lambda-Code-Organization&repo=lambda-code-organization.github.io&theme=algolia)](https://github.com/Lambda-Code-Organization/package-manager)
+[![Website](https://github-readme-stats.vercel.app/api/pin/?username=Lambda-Code-Organization&repo=lambda-code-organization.github.io&theme=algolia)](https://github.com/Lambda-Code-Organization/Lambda-code-organization.github.io)
